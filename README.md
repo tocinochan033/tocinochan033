@@ -1,12 +1,11 @@
 
-Readme · MD
 <div align="center">
 # martin vazquez
  
 <a href="https://github.com/tocinochan033">
   <img src="https://readme-typing-svg.demolab.com/?lines=coding+just+for+fun+%F0%9F%A6%80;rust+enthusiast+in+progress;fueled+by+queen+%26+led+zeppelin&font=Fira+Code&center=true&width=440&height=30&color=8A8A8A&vCenter=true&size=16" />
 </a>
-`CS student · TecNM Tijuana`  ·  `probably listening to Queen or Led Zeppelin`  ·  `anime enjoyer`
+`CS student · TecNM Tijuana`  ·  `probably listening to Queen or Led Zeppelin`
  
 </div>
 ---
