@@ -1,27 +1,30 @@
 <div align="center">
-# martin vazquez
+<h1>martin vazquez</h1>
  
 <img src="https://readme-typing-svg.demolab.com/?lines=coding+just+for+fun+%F0%9F%A6%80;rust+enthusiast+in+progress;fueled+by+queen+%26+led+zeppelin&font=Fira+Code&center=true&width=440&height=30&color=8A8A8A&vCenter=true&size=16" />
-`CS student · TecNM Tijuana`
+<sub>CS student · TecNM Tijuana</sub>
  
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=tocinochan033&show_icons=true&theme=transparent&hide_border=true&title_color=8A8A8A&text_color=cfcfcf&icon_color=8A8A8A" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocinochan033&layout=compact&theme=transparent&hide_border=true&title_color=8A8A8A&text_color=cfcfcf" height="150" />
+<br><br>
+ 
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
 </div>
 ---
  
 **currently**
+ 
 learning rust one small, finished project at a time — no half-built epics, just things that actually run.
  
-**stack**
- 
-`rust` `c#` `git`
- 
 **pinned**
+ 
 - [BKDos](https://github.com/tocinochan033/BKDos) — school project, TecNM Tijuana
 **reach me**
+ 
 vazquezlmartin33@gmail.com
  
 <div align="center">
 <sub>— coding just for fun —</sub>
 </div>
+ 
