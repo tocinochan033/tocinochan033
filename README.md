@@ -7,7 +7,7 @@
  
 `Hey, I'm Martin — student at TecNM Tijuana.`
 `Into Rust and low-level stuff, definitely NOT a web dev guy.`
-`Soundtrack: Queen & Led Zeppelin, on loop.`
+`Probably listening to Queen or Led Zeppelin.`
  
 **`」`**
  
