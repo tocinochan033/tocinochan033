@@ -24,6 +24,7 @@
 **currently**
 
 learning rust one small, finished project at a time — no half-built epics, just things that actually run.
+Built without AI - mistakes are 100% mine.
 
 **pinned**
 
