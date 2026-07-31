@@ -28,7 +28,7 @@ Built without AI - mistakes are 100% mine.
 
 **pinned**
 
-- [BKDos](https://github.com/tocinochan033/BKDos) — school project, TecNM Tijuana
+- [flashcard-rs](https://github.com/tocinochan033/flashcard-rs);
 
 **reach me**
 
